@@ -24,9 +24,33 @@ Improvements?
 
 Now, I use this by opening two tabs, one with the chords and the other with the song overview so I can review, then practice and switch back and forth easily.  This works well but maybe there could be an even better UI which combines it all into one? i.e. if the animation view also highlighted *only* the chords which I didn't know yet?
 
+---
 This is my filtered "chord review" UI
+---
+
+I'm just starting out, so the only chords I filter out are the basic naturals, flats, and minors. I'm still working on dim/sus/aug, slash chords, plus tons more
+
 <img width="2421" height="1461" alt="image" src="https://github.com/user-attachments/assets/cf12bfe2-152e-4f91-9bff-7980957af8f0" />
+
+
+---
+Song practice - overview screen
+---
+
+This is unmodified here - just including it for fun.
 
 This is the default song play & practice view.  The embedded youtube video in the upper right live-plays directly from youtube, relieving the site of burdens, I imagine.
 
 <img width="2481" height="1133" alt="image" src="https://github.com/user-attachments/assets/79a978bd-94d5-4550-ae42-5a01a32e334a" />
+
+
+
+---
+My practice songs
+---
+
+These are the songs I've started out with.  I was pretty surprised to find out how easy it was to play along with songs and have it sound good.  Compared to classical piano, just jumping to chords is way, way easier.  To the point that you can have tons of fun playing along with songs on day 1.
+
+https://chordify.net/profile/68884d17786de09e22003eb4/setlists/favorites
+
+<img width="2487" height="1659" alt="image" src="https://github.com/user-attachments/assets/7cc8ac25-89f9-4b8c-ac3d-d5ea61dfccfc" />
